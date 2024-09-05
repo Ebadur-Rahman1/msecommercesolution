@@ -802,16 +802,16 @@ label input[type=radio] {
 /* 3.3: Header Call */
 .header-call span {
     display: block;
-    color: #474747;
+    color: black;
     line-height: 0.875;
 }
 .header-call a {
     font-size: 1.125rem;
     font-weight: 600;
-    color: #60c2a4;
+    color: black;
 }
 .header-call a:hover {
-    color: #605cb8;
+    color: red;
 }
 
 /*=============================================
@@ -2365,16 +2365,16 @@ a.tip:hover {
     font-size: 1.5rem;
     text-align: center;
     line-height: 2;
-    color: #fff;
+    color: white;
     width: 50px;
     height: 50px;
     display: inline-block;
-    background: #60c2a4;
+    background: black;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
 }
 .back-to-top a:hover {
-    background: #605cb8;
+    background: red;
     color: #fff;
 }
 
